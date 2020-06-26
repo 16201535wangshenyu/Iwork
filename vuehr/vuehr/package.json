@@ -15,7 +15,7 @@
     "echarts": "^4.5.0",
     "element-ui": "^2.4.5",
     "font-awesome": "^4.7.0",
-    "jquery": "^3.4.1",
+    "jquery": "^3.5.0",
     "moment": "^2.24.0",
     "vue": "^2.5.2",
     "vue-full-calendar": "^2.7.0",
