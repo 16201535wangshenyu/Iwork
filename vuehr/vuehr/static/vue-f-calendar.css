@@ -1,0 +1,60 @@
+.fc-widget-header th,fc-day-header,fc-widget-header ,fc-sun>span{
+    padding-top: 5px;
+    padding-bottom: 5px;
+    background-color: rgb(85, 181, 255);
+    color: #fff;
+}
+.fc-month-view>table{
+    border-radius: 15px;
+    border: 1px solid #eaeaea;
+    box-shadow: 0 0 25px #cac6c6;
+}
+.fc-content-skeleton{
+    padding-top: 6px;
+    padding-bottom: 6px;
+}
+.fc-unthemed td.fc-today{
+    background-color: rgb(233, 242, 255);
+    font-size: 18px;
+
+    text-shadow: 0 1px 1px rgba(63, 165, 255, 0.06);
+}
+.fc-event{
+    border-color: #4eb1e1;
+    background-color: #4eb1e1;
+}
+.fc-today-button, .fc-right .fc-state-default{
+    margin-top:4px;
+    color: #0092FF;
+    background-color: #C7E6FD;
+    border-radius: 3px;
+    border:1px solid rgb(112, 193, 255);
+    font-size: 14px;
+}
+.fc-state-default {
+    background-color: #fff;
+    background-image: -webkit-gradient(linear, left top, left bottom, from(#66cdff), to(#21b6ff));
+    background-image: linear-gradient(to bottom, #fff, #fff);
+    background-repeat: repeat-x;
+    border-color: #fff #fff #fff;
+    color: #b5b5b5;
+    text-shadow: 0 1px 1px rgba(63, 165, 255, 0.06);
+  }
+  .fc-state-default:hover {
+    background-image: linear-gradient(to bottom, #f5f5f5, #f5f5f5);
+    background-color: #f5f5f5;
+  }
+  .fc-state-default:active {
+    background-image: linear-gradient(to bottom, #fafafa, #fafafa);
+    background-color: #fafafa;
+
+  }
+  th {
+    color: #444444;
+    font-weight: normal;
+  }
+  h2{
+    color:#81858a;
+    font-weight: normal;
+  }
+
